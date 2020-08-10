@@ -6,8 +6,8 @@ In the application you are able to create(order) the burger you want.
 Eat the burger(remove burger).
 
 The initial burgers are entered from the server hosted on AWS via Heroku.
-\public\assets\css\img/
-<img src="/public/assets/img/Capture.PNG">
+<img src="/public/assets/css/img/Capture.PNG">
+
 Tough Assignment
 
 
