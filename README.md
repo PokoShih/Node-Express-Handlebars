@@ -8,6 +8,7 @@ Eat the burger(remove burger).
 The initial burgers are entered from the server hosted on AWS via Heroku.
 <img src="/public/assets/css/img/Capture.PNG">
 
+Deployed Application:https://tranquil-coast-32092.herokuapp.com/burger
 Tough Assignment
 
 
